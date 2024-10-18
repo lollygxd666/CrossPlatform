@@ -1,0 +1,30 @@
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.exe
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.deps.json
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.runtimeconfig.json
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.dll
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.pdb
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.AssemblyInfoInputs.cache
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.AssemblyInfo.cs
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.csproj.CoreCompileInputs.cache
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.sourcelink.json
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.dll
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\refint\Lab2.lab.dll
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.pdb
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.genruntimeconfig.cache
+D:\универ\3 курс\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\ref\Lab2.lab.dll
+D:\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.exe
+D:\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.deps.json
+D:\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.runtimeconfig.json
+D:\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.dll
+D:\croww\CrossPlatform\Lab2.lab\bin\Debug\net6.0\Lab2.lab.pdb
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.AssemblyInfoInputs.cache
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.AssemblyInfo.cs
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.csproj.CoreCompileInputs.cache
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.sourcelink.json
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.dll
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\refint\Lab2.lab.dll
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.pdb
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\Lab2.lab.genruntimeconfig.cache
+D:\croww\CrossPlatform\Lab2.lab\obj\Debug\net6.0\ref\Lab2.lab.dll
