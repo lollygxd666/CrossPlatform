@@ -1,0 +1,15 @@
+D:\croww\CrossPlatform\Lab3.lab\bin\Debug\net6.0\Lab3.lab.exe
+D:\croww\CrossPlatform\Lab3.lab\bin\Debug\net6.0\Lab3.lab.deps.json
+D:\croww\CrossPlatform\Lab3.lab\bin\Debug\net6.0\Lab3.lab.runtimeconfig.json
+D:\croww\CrossPlatform\Lab3.lab\bin\Debug\net6.0\Lab3.lab.dll
+D:\croww\CrossPlatform\Lab3.lab\bin\Debug\net6.0\Lab3.lab.pdb
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.AssemblyInfoInputs.cache
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.AssemblyInfo.cs
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.csproj.CoreCompileInputs.cache
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.sourcelink.json
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.dll
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\refint\Lab3.lab.dll
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.pdb
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\Lab3.lab.genruntimeconfig.cache
+D:\croww\CrossPlatform\Lab3.lab\obj\Debug\net6.0\ref\Lab3.lab.dll

@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\croww\\CrossPlatform\\Lab3.Tests\\Lab3.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\croww\\CrossPlatform\\Lab3.lab\\Lab3.lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\croww\\CrossPlatform\\Lab3.lab\\Lab3.lab.csproj",
+        "projectName": "Lab3.lab",
+        "projectPath": "D:\\croww\\CrossPlatform\\Lab3.lab\\Lab3.lab.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\croww\\CrossPlatform\\Lab3.lab\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\croww\\CrossPlatform\\Lab3.Tests\\Lab3.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\croww\\CrossPlatform\\Lab3.Tests\\Lab3.Tests.csproj",
+        "projectName": "Lab3.Tests",
+        "projectPath": "D:\\croww\\CrossPlatform\\Lab3.Tests\\Lab3.Tests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\croww\\CrossPlatform\\Lab3.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\croww\\CrossPlatform\\Lab3.lab\\Lab3.lab.csproj": {
+                "projectPath": "D:\\croww\\CrossPlatform\\Lab3.lab\\Lab3.lab.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
